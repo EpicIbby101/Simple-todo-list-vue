@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# To Do List App
+A full stack VueJS To-Do List app that tracks and categorises tasks
+## Features
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- Allows users to create and manage a list of tasks
+- Display the list of tasks and its status
+- Mark tasks as complete or incomplete by clicking on a checkbox
+- delete tasks from the list by clicking on a delete button next to the task
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Demo
+
+Click the link below to view the deployed app:
+
+https://to-do-list-cb990.web.app/
